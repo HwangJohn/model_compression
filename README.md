@@ -7,6 +7,8 @@
 
 ## Contents
 
+* [slide](https://www.slideshare.net/KimJunghoon5/2020-dld-238284732?fbclid=IwAR0MfUzIz5iF1g55qz2xLtJLH3DEoqUX8QROSY7GlM23PhGigXekHbA2yz8)
+
 * [Getting started](https://github.com/j-marple-dev/model_compression#getting-started)
   * [Prerequisites](https://github.com/j-marple-dev/model_compression#prerequisites)
   * [Installation](https://github.com/j-marple-dev/model_compression#installation)
